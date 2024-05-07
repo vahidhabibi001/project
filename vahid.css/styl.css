@@ -1,0 +1,26 @@
+header p {
+    font-size: 28px; 
+    text-align: center;
+    
+}
+#id {
+    font-size: 16px;
+}
+.sum {
+    font-size: 18px;
+    color: rgb(90, 81, 99);
+    font: bolder;
+    text-align: center;
+    
+
+}
+.ex {
+    color: black;
+}
+#id {
+    color: cadetblue;
+}
+#welcome {
+    text-align: center;
+    font-size: 30;    
+}
